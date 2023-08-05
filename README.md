@@ -1,0 +1,2 @@
+# codsoft
+some small projects
